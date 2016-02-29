@@ -1,4 +1,6 @@
-This is a blank project with a blank stack. The stack includes common utilities for development including tools for adding additional tools to your workspace.
+### This is a blank project with a blank stack. 
+
+## The stack includes common utilities for development including tools for adding additional tools to your workspace.
 
 In this workspace you can:
 1. Add / remove additional files.
